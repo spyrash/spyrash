@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @spyrash (nickname of course).
+- 👀 I’m interested in front-end,back-end and all sort of programming field like Artificial Intelligence and engineering
+- 🌱 I’m currently learning Algorithm in Java/C and the optimal cost of each operation.
+- 📫 How to reach me diego.petrucci@outlook.com
+- I'm currently an University student at Sapienza(Rome) on March 2022 I should be graduated.
