@@ -3,4 +3,4 @@
 - 🌱 I'm currently new in the web development's field, but I'm having a great start from the backend section and I'm expanding my skills everyday.
 - 📫 How to reach me diego.petrucci@outlook.com
 - I'm a Software Engineer , graduated at Sapienza's university of Rome, in july 2022.
-- I'm working in the backend field and I'm specialized in PHP, Symfony, html, css and js web development at Links s.p.a.
+- I'm working in the backend field with technlogy like: PHP, Symfony, html, css and js web development at Links s.p.a.
