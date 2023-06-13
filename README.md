@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @spyrash (nickname of course).
-- 👀 I’m interested in front-end,back-end and all sort of programming field like Artificial Intelligence and engineering
-- 🌱 I'm currently new in the web development's field, but I'm having a great start from the backend section and I'm expanding my skills everyday.
+- 👀 I’m interested in front-end,back-end and all sort of programming field and engineering.
 - 📫 How to reach me diego.petrucci@outlook.com
 - I'm a Software Engineer , graduated at Sapienza's university of Rome, in july 2022.
-- I'm working in the backend field with technlogy like: PHP, Symfony, html, css and js web development at Links s.p.a.
+- I'm currently working in the backend field with technlogy like: PHP, Symfony, html, css and js web development.
