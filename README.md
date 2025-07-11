@@ -2,4 +2,4 @@
 - 👀 I’m interested in front-end,back-end and all sort of programming field and engineering.
 - 📫 How to reach me diego.petrucci@outlook.com
 - I'm a Software Engineer , graduated at Sapienza's university of Rome.
-- I'm currently working in the backend field until AI replace me
+- I'm currently working in the backend field
